@@ -1,4 +1,7 @@
-Station MAnual KWind
+Station Manual KWind
+
+Please contact us if you try and ad a Station we need some infos ! Name, Location , then we reales the station to the Kwind App (Webwidget or ESP32 Weather Gadgets)
+hello(at)kwind.app
 
 <img width="1434" alt="Screenshot 2025-03-09 at 00 49 40" src="https://github.com/user-attachments/assets/25d6bffd-aded-41c8-a885-921fd77097ca" />
 <img width="582" alt="Screenshot 2025-03-17 at 01 12 43" src="https://github.com/user-attachments/assets/cf47ef7c-0ddb-4da6-ba8c-225d05f0c6e6" />
