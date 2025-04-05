@@ -1,4 +1,4 @@
-Station Manual
+Station - Manual
 KWind Ecowitt Auto Setup Station to KWind App and Windguru integration...WebWidget creator
 
 Please contact us if you try and ad a Station we need some infos ! Name, Location , then we release the station to the Kwind App (Webwidget or ESP32 Weather Gadgets)..
