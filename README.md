@@ -1,3 +1,6 @@
+Station order ...use discount code kwind
+https://shop.ecowitt.com/products/wittboy?_pos=1&_sid=92956a7c8&_ss=r
+
 Station - Manual
 KWind Ecowitt Auto Setup Station to KWind App and Windguru integration...WebWidget creator
 
