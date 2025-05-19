@@ -2,7 +2,7 @@
 
 - Setup 3 Steps
 ************************************
-- Step 1 add Batteries to the Sensor 
+- Step 1 add Batteries to the Sensor ( 2 normal Energizer AA Bat.)
 - Step 2 Power on the Receiver
 - Step 3 Connect your Phone with the Receiver Wifi and open the Kwind App follow the instructions
 
